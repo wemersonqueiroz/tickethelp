@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "619385534527",
+    "project_id": "reactnative-c402e",
+    "storage_bucket": "reactnative-c402e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619385534527:android:13b6344bca8710cdd9608a",
+        "android_client_info": {
+          "package_name": "com.tickethelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619385534527-h00j6bk7r8o490ml49q1ccn59ha9r753.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoI9KgAjz6kIC3GBuL_x4Q5rMxbN5zs8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619385534527-h00j6bk7r8o490ml49q1ccn59ha9r753.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "619385534527-fe99jqmvsk6cue532pt8bbe1brp6khjr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tickethelp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "TicketHelp",
+    "slug": "TicketHelp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "TicketHelp.com"
+    },
+    "ios": {
+      "bundleIdentifier": "TicketHelp.com"
+    }
+  }
+}
