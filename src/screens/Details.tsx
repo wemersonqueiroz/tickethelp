@@ -140,7 +140,7 @@ export function Details() {
         />
 
         <CardDetails
-          title="solução"
+          title="Solution"
           icon={CircleWavyCheck}
           description={order.solution}
           footer={order.closed && `Closed at ${order.closed}`}>
