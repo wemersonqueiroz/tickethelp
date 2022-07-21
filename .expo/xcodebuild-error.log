@@ -1,2 +1,8 @@
-2022-07-21 08:37:57.774 xcodebuild[24335:827405] Requested but did not find extension point with identifier Xcode.IDEKit.ExtensionSentinelHostApplications for extension Xcode.DebuggerFoundation.AppExtensionHosts.watchOS of plug-in com.apple.dt.IDEWatchSupportCore
-2022-07-21 08:37:57.775 xcodebuild[24335:827405] Requested but did not find extension point with identifier Xcode.IDEKit.ExtensionPointIdentifierToBundleIdentifier for extension Xcode.DebuggerFoundation.AppExtensionToBundleIdentifierMap.watchOS of plug-in com.apple.dt.IDEWatchSupportCore
+2022-07-21 10:22:48.932 xcodebuild[76248:1074616] Requested but did not find extension point with identifier Xcode.IDEKit.ExtensionSentinelHostApplications for extension Xcode.DebuggerFoundation.AppExtensionHosts.watchOS of plug-in com.apple.dt.IDEWatchSupportCore
+2022-07-21 10:22:48.932 xcodebuild[76248:1074616] Requested but did not find extension point with identifier Xcode.IDEKit.ExtensionPointIdentifierToBundleIdentifier for extension Xcode.DebuggerFoundation.AppExtensionToBundleIdentifierMap.watchOS of plug-in com.apple.dt.IDEWatchSupportCore
+2022-07-21 10:22:50.297 xcodebuild[76248:1074620]  DVTAssertions: Warning in /Library/Caches/com.apple.xbs/Sources/DVTiOSFrameworks/DVTiOSFrameworks-20038/DTDeviceKitBase/DTDKRemoteDeviceData.m:373
+Details:  (null) deviceType from bd1613e35db977bcabdb146214e26fdee07a39cb was NULL when -platform called.
+Object:   <DTDKMobileDeviceToken: 0x1480b7610>
+Method:   -platform
+Thread:   <NSThread: 0x124ed5290>{number = 8, name = (null)}
+Please file a bug at https://feedbackassistant.apple.com with this warning message and any useful information you can provide.

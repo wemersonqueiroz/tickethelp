@@ -1,40 +1,40 @@
 {
   "project_info": {
-    "project_number": "619385534527",
-    "project_id": "reactnative-c402e",
-    "storage_bucket": "reactnative-c402e.appspot.com"
+    "project_number": "160739894209",
+    "project_id": "rockethelp-52fe3",
+    "storage_bucket": "rockethelp-52fe3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:619385534527:android:13b6344bca8710cdd9608a",
+        "mobilesdk_app_id": "1:160739894209:android:800e08fa45fc12a99e0540",
         "android_client_info": {
-          "package_name": "com.tickethelp"
+          "package_name": "com.rockethelp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "619385534527-h00j6bk7r8o490ml49q1ccn59ha9r753.apps.googleusercontent.com",
+          "client_id": "160739894209-129vffe1qcqjp8h1ock0llhpmut3p1qb.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAoI9KgAjz6kIC3GBuL_x4Q5rMxbN5zs8U"
+          "current_key": "AIzaSyCoOt0n448BnHeTqFeGIMS5PQVXAo0JBGc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "619385534527-h00j6bk7r8o490ml49q1ccn59ha9r753.apps.googleusercontent.com",
+              "client_id": "160739894209-129vffe1qcqjp8h1ock0llhpmut3p1qb.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "619385534527-fe99jqmvsk6cue532pt8bbe1brp6khjr.apps.googleusercontent.com",
+              "client_id": "160739894209-p4jhhb0s5uik2i19j4q8bberc3i3smvg.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.tickethelp"
+                "bundle_id": "com.rockethelp"
               }
             }
           ]

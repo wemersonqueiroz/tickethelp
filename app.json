@@ -1,16 +1,17 @@
 {
   "expo": {
-    "name": "TicketHelp",
-    "slug": "TicketHelp",
+    "name": "WemersonDev",
+    "slug": "WemersonDev",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
+    "plugins": ["@react-native-firebase/app"],
     "android": {
-      "package": "TicketHelp.com"
+      "package": "com.rockethelp",
+      "googleServicesFile": "./google-services.json"
     },
     "ios": {
-      "bundleIdentifier": "TicketHelp.com"
+      "bundleIdentifier": "com.rockethelp",
+      "googleServicesFile": "./GoogleService-Info.plist"
     }
   }
 }
